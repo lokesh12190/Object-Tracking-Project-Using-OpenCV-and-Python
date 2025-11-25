@@ -49,7 +49,7 @@ You can download the GOTURN caffemodel and prototxt files located at: https://gi
 2. You need the res10_300x300_ssd_iter_140000.caffemodel and deploy.prototxt file for executing the CentroidTracking.py file - these must be present in the ML_Pipeline folder.
      
 For concatenating the goturn model;
-1) git clone --depth=1 https://github.com/spmallick/goturn-files.git
+1) git clone 
 
 2) on unix
 
